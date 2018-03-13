@@ -1,7 +1,7 @@
 Tilt-a-Whirl Breakout Board
 =====================
 
-Note: The RPI-1031 IC is EOL and discontinuted by the manufacturer.
+Note: The RPI-1031 IC is EOL and discontinuted by the manufacturer. Therefore the tilt-a-whirl breakout has been retired.
 
 [![RPI-1031 Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/1/1/12011-01.jpg)  
 *RPI-1031 Tilt-a-Whirl Breakout(SEN-12011)*](https://www.sparkfun.com/products/12011)
