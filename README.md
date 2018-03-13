@@ -1,6 +1,8 @@
 Tilt-a-Whirl Breakout Board
 =====================
 
+Note: The RPI-1031 IC is EOL and discontinuted by the manufacturer.
+
 [![RPI-1031 Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/1/1/12011-01.jpg)  
 *RPI-1031 Tilt-a-Whirl Breakout(SEN-12011)*](https://www.sparkfun.com/products/12011)
 
@@ -14,7 +16,8 @@ Repository Contents
 
 Product Versions
 ----------------
-* [SEN-10621](https://www.sparkfun.com/products/10621)- V11 of the Tilt-a-Whirl
+* [SEN-12011 (RETIRED)](https://www.sparkfun.com/products/12011)- V12 of the Tilt-a-Whirl
+* [SEN-10621 (RETIRED)](https://www.sparkfun.com/products/10621)- V11 of the Tilt-a-Whirl
 
 License Information
 -------------------
